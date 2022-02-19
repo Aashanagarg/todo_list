@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
  "scripts": {
-    "start": "node ./code.js"
+    "start": "node ./assets/code.js"
   },
 
   "author": "",
