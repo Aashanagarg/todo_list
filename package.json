@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "script"{
-  "start":"node ./script.js"
-}
+ "scripts": {
+    "start": "node ./script.js"
+  },
 
   "author": "",
   "license": "ISC",
